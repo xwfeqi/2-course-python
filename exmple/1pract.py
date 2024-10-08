@@ -1,5 +1,3 @@
-print("Привіт, світе!")
-
 def calc():
     while True:
         num1 = int(input("enter num1: "))
