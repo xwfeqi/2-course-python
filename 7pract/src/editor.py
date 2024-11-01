@@ -76,4 +76,4 @@ class TextEditor:
             pass
 
     def about(self):
-        messagebox.showinfo("Про програму", "Простий текстовий редактор з багатовіконністю на Python.")
+        messagebox.showinfo("Про програму", "Lorem ipsum dolor sit amet, consectetur adipiscing elit.")
