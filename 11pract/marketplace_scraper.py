@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Конфігурація Selenium
 options = Options()
-options.add_argument("--headless")  # Запуск у фоновому режимі
+options.add_argument("--headless")
 service = Service('C:/Users/psycho/Downloads/chromedriver-win64/chromedriver.exe')
 
 def collect_marketplace_data(url, csv_filename):
